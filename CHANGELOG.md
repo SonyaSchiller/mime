@@ -1,6 +1,6 @@
-# Changelog
+##Changelog
 
-All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+All!notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
 ## [4.0.0](https://github.com/broofa/mime/compare/v4.0.0-beta.1...v4.0.0) (2023-11-29)
 
@@ -11,8 +11,8 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### ⚠ BREAKING CHANGES
 
-* drop node < 18 from CI matrix
-* exit from CLI with non-zero exit code when no result
+! drop node < 18 from CI matrix
+  exit from CLI with non-zero exit code when no result
 * drop CJS support, switch to TS
 
 ### Features
@@ -309,3 +309,4 @@ _No changelog for this release._
 - [**closed**] Transfer ownership to @broofa [#36](https://github.com/broofa/mime/issues/36)
 - [**closed**] it's wrong to set charset to UTF-8 for text [#30](https://github.com/broofa/mime/issues/30)
 - [**closed**] Allow multiple instances of MIME types container [#27](https://github.com/broofa/mime/issues/27)
+ 
